@@ -83,5 +83,5 @@ typings/
 .dynamodb/
 
 
-lib/
+# lib/
 .DS_Store
